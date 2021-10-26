@@ -341,3 +341,12 @@ div.cart_box>p.next_step:hover{
     cursor: pointer;
     background-color: #DBD0BD;
     }
+tr.title{
+    background-color: #DBD0BD;
+}
+tr.items1{
+    background-color: #E8E1DB;
+}
+tr.total{
+    background-color: #DBD0BD;
+}
