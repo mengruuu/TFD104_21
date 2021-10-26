@@ -457,12 +457,12 @@ div.ranking>div.items>div.top>img {
     padding: 0;
 }
 
-div.ranking>div.items>div.top>img:hover{
+/* div.ranking>div.items>div.top>img:hover{
     cursor: pointer;
     border: 1px solid #4F392B;
     transition-timing-function: linear;
     transition-duration: 0.5s;
-}
+} */
 
 div.ranking>div.items>div.number {
     display: inline-block;
