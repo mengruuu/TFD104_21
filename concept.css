@@ -172,9 +172,9 @@ div.follow {
 }
 
 div.footer>div.contect:hover {
-    background-color: none;
-    box-shadow: 0 2px #4F392B;
-    color: #4F392B;
+    background-color: #4F392B;
+    /* box-shadow: 0 2px #4F392B; */
+    color: #DBD0BD;
     padding-bottom: 10px;
     cursor: pointer;
     transition-duration: 0.2s;
